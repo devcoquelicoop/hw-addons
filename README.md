@@ -1,2 +1,3 @@
-# .template-project
-Template repository for new projects
+# Druidoo Hardware Addons
+
+Addons to be deployed in `posbox` or `iotbox`
